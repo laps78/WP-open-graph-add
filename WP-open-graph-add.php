@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: L.A.P.S. WC set Open Graph
- * Plugin URI:  https://github.com/laps78/WP-set-open-graph
+ * Plugin URI:  https://github.com/laps78/WP-open-graph-add
  * Description: Данный плагин добавляет мета теги разметки Open Graph для страницы и для записи
  * Version: 1.0.0
  * Author: Евгений L.A.P.S Лаптев
